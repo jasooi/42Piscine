@@ -1,0 +1,2 @@
+find . \( -name "*~" -o -name "*[#*#]" \) -printf '%p\n' -delete
+
